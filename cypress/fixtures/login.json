@@ -1,0 +1,65 @@
+{
+    "case1": {
+        "account": "15250996938",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh"
+    },
+    "case2": {
+        "account": "15250996938",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh"
+    },
+    "case3": {
+        "account": "1525099698",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh"
+    },
+    "case4": {
+        "account": "1525099698",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh",
+        "except": "请输入正确的手机号码",
+        "exceptEn": "Please enter the correct phone number"
+    },
+    "case5": {
+        "account": "15951394068",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh",
+        "except": "用户不存在或密码不正确，请确保输入信息及所选地区正确",
+        "exceptEn": "The user does not exist or the password is incorrect, please make sure that the information entered and the selected region are correct"
+    },
+    "case6": {
+        "account": "15250996938",
+        "passwd": "sf111111",
+        "region": "China",
+        "language": "zh",
+        "except": "账号或密码错误",
+        "exceptEn": "Incorrect account number or password"
+    },
+    "case7": {
+        "account": "15250996938",
+        "passwd": "sf123",
+        "region": "China",
+        "language": "zh",
+        "except": "请填写由字母、数字组成的6-12位组合的密码",
+        "exceptEn": "6-12 chars long, nums & letters only. no special chars."
+    },
+    "case8": {
+        "account": "15250996938",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh"
+    },
+    "case9": {
+        "account": "15250996938",
+        "passwd": "sf19960408",
+        "region": "China",
+        "language": "zh"
+    }
+
+}
