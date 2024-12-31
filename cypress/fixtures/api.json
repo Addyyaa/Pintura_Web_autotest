@@ -1,0 +1,4 @@
+{
+    "getAlbumPic": "api/v1/photo/album/list",
+    "createAlbum": "api/v1/photo/create"
+}
